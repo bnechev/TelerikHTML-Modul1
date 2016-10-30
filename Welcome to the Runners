@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <title>Hello,Stranger!</title>
+ </head>
+<body>
+    <div id="header">
+        <p>Hello,Stranger!</p>
+        <h1>Welcome to Runners Home&trade;</h1>
+    </div>
+    <div id="content">
+        <p><b>Runners Home&trade; is dedicate to providing you with:<b></p>
+        <ul>
+        <li>the most up to date inforamtion to running races.</li>
+        <li>the best resurse for runners.</li>
+        </ul>
+    </div>
+    <div id="footer">
+        <hr/>
+        <p>&copy;2016 Runners Home. All rights reserved</p>
+    </div>  
+
+</body>
+</html>
